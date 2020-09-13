@@ -1,8 +1,3 @@
-"""
-Created on JULY 13 2020
-
-@author: GAURI
-"""
 #Import Necessary Libraries
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
