@@ -113,7 +113,7 @@ for img in img_link:
         elif link[0] == 'h': #check if the source is a URL
             lst2.append(link) #add the link to list 2
     else:
-        cnt = cnt+1 #if extrcing source results in None keep a count
+        cnt = cnt+1 #if extracting source results in None keep a count
 
 time.sleep(2)
 driver.close()
