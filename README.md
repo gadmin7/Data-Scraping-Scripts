@@ -1,4 +1,4 @@
-### Extracting_google_Images
+### Extracting_Google_Images
 
 This script can be used to download Google images for a given keyword.
 
